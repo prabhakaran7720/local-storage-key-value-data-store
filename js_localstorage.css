@@ -1,0 +1,18 @@
+*{
+   font-family: sans-serif;
+}
+
+#bold{
+    font-weight: bold;
+}
+
+input{
+    width: 50%;
+    border: 1px solid gray;
+}
+
+button{
+    padding: 4px;
+    border: 1px solid gray;
+
+}
